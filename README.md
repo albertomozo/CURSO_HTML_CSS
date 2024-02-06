@@ -10,7 +10,7 @@ El contenido del curso está estructurado según la presentación alojada en Goo
 
 El repositorio está organizado de la siguiente manera:
 
-- 📁 **Ejercicios:** Contiene todos los ejercicios prácticos del curso.
+- 📁 ** Temáticas :** En cada carpeta estan los ejercicios base para descargar y trabajar.
   - 📂 **HTML:** Ejemplos y prácticas relacionadas con HTML.
   - 📂 **CSS:** Ejemplos y prácticas relacionadas con CSS.
 
