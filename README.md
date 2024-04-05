@@ -35,8 +35,7 @@ Si tienes algún problema o pregunta, no dudes en abrir un [issue](https://githu
 
 # soluciones a ejercciios
 
-[![GITHUB](https://img.shields.io/badge/
-HTML_CSS_SOLUCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/HTML-CSS-Soluciones)
+[![GITHUB](https://img.shields.io/badge/HTML_CSS_SOLUCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/HTML-CSS-Soluciones)
 
 
 
