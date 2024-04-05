@@ -11,12 +11,13 @@ El contenido del curso está estructurado según la presentación alojada en Goo
 El repositorio está organizado de la siguiente manera:
 
 - 📁 ** Temáticas :** En cada carpeta estan los ejercicios base para descargar y trabajar.
-  - 📂 **HTML:** Ejemplos y prácticas relacionadas con HTML.
-  - 📂 **CSS:** Ejemplos y prácticas relacionadas con CSS.
+  - 📂 **BOOTSTRAP :** Ejemplos DE Bootstrap.
+  - 📂 **COLUMNAS RESPONSIVAS:** 
+  - 📂 **FONTS:**
+  - 📂 **FORMULARIOS:**
+  - 📂 **IMAGENES:**
 
-- 📄 **Recursos:** Aquí encontrarás archivos y enlaces útiles para el curso.
 
-- 📄 **Proyectos Finales:** Si hay proyectos finales, se encontrarán en esta sección.
 
 ## Cómo Contribuir
 
@@ -29,6 +30,15 @@ Si deseas contribuir, ¡eres bienvenido! Puedes seguir estos pasos:
 ## Problemas o Preguntas
 
 Si tienes algún problema o pregunta, no dudes en abrir un [issue](https://github.com/albertomozo/CURSO_HTML_CSS/issues). Estaremos encantados de ayudarte. 🤝
+
+## documentacion adicional
+
+# soluciones a ejercciios
+
+[![GITHUB](https://img.shields.io/badge/
+HTML_CSS_SOLUCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/HTML-CSS-Soluciones)
+
+
 
 ## Agradecimientos
 
